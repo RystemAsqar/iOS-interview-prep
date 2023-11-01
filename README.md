@@ -5,7 +5,7 @@
 Curated list of topics  for iOS development with links to resources. This place would help beginners and experienced developers prepare for the interview. 
 
 ## Algorithms
-- [ ] [Solutions to LeetCode in Swift](https://github.com/soapyigu/LeetCode-Swift)
+- [] [Solutions to LeetCode in Swift](https://github.com/soapyigu/LeetCode-Swift)
 - [ ] [Data structures & algorithms](https://github.com/raywenderlich/swift-algorithm-club)
 
 ## Language
